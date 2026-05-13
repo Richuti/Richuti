@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Richard</h1>
-<h3 align="center">💻 Estudiante de Ingeniería en Computación | Desarrollador Web</h3>
+<h3 align="center">💻 Estudiante de Ingeniería en Sistemas | Desarrollador Web</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Developer;React+%7C+Node.js+%7C+Python;Siempre+aprendiendo+nuevas+tecnologías" />
